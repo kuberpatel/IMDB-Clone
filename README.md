@@ -1,4 +1,4 @@
-It's mini IMDB clone app. Used ONLY vanilla javascript , HTML & CSS.
+It's mini IMDB clone app. Used ONLY vanilla Javascript , HTML & CSS.
 This  project describes the functionality of a web application that allows users to search for movies, view information about them, and add them to a list of favorites. The application has three main pages: the Home Page, the Movie Page, and the My Favorite Movies Page.
 
 Demo Link :- https://kuberpatel.github.io/IMDB-Clone/
