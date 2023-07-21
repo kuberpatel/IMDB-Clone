@@ -72,7 +72,7 @@
 
     if (!isPresent && data.Title != undefined) {
       if (data.Poster == "N/A") {
-        data.Poster = "./image-not-found-scaled-1150x647.png";
+        data.Poster = "image-not-found-scaled-1150x647.png";
       }
       suggestionList.push(data);
       const movieCard = document.createElement("div");
